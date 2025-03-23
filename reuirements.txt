@@ -1,0 +1,4 @@
+streamlit==1.32.2
+streamlit-autorefresh==0.1.0
+vosk==0.3.45
+sounddevice==0.4.6
